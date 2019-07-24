@@ -1,1 +1,5 @@
 project.language       #=> " Processing"
+
+*.html linguist-vendored
+css/* linguist-vendored
+*.pde linguist-language=Processing
