@@ -1,5 +1,4 @@
-project.language       #=> " Processing"
-
+project.language #=> "Processing"
 *.html linguist-vendored
 *.java linguist-vendored
 css/* linguist-vendored
